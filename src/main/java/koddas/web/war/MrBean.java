@@ -108,3 +108,5 @@ public class MrBean implements Serializable {
 		this.carBrand = carBrand;
 	}
 }
+
+/* this is a comment */
